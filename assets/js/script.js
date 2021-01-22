@@ -16,7 +16,7 @@ start_btn.onclick = ()=>{
 
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo");
-
+}
 
 continue_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo");
