@@ -197,6 +197,7 @@ function startTimer(time){
                 option_list.children[i].classList.add("disabled"); 
             }
             next_btn.classList.add("show"); 
+        }
     }
 }
 
