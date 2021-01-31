@@ -1,4 +1,4 @@
-# quizapp.github.io
+# Quiz_App
 
 Website : https://debrajhyper.github.io/Quiz_App/
 
