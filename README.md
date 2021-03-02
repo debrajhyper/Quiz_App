@@ -2,7 +2,7 @@
 
 Website : https://debrajhyper.github.io/Quiz_App/
 
-    Play an online quiz game
+    Play an online quiz game 🎯
 
     There is a fun quiz about virtually every topic imaginable:
 
